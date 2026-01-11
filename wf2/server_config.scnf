@@ -5,6 +5,7 @@
             "bbmeta": "ncnf v0 n1",
             "name": "Wreckfest 2 Server",
             "description": "Welcome to my server",
+            "log file name": "server_console.log",
             "game port": 27015
         }
     ],
