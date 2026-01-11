@@ -6,7 +6,7 @@
             "name": "TeamTWS",
             "description": "Welcome to my server ",
             "password": "banana",
-            "log file name": "server.log",
+            "log file name": "../server.log",
             "game port": 27015
         }
     ],
