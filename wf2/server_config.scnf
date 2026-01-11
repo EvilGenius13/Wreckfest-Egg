@@ -3,9 +3,9 @@
     "net server config": [
         {
             "bbmeta": "ncnf v2 n1",
-            "name": "TeamTWS",
+            "name": "My Wreckfest 2 server",
             "description": "Welcome to my server ",
-            "password": "banana",
+            "password": "",
             "log file name": "../server.log",
             "game port": 27015
         }
